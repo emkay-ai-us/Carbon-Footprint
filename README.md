@@ -43,9 +43,9 @@ Emission factors are sourced from the **EPA eGRID 2023** dataset and vary by U.S
 
 ## 🚀 Try It Live
 
-🟢 [🌍 Streamlit App (Live)](https://your-streamlit-link-here)
+🟢 [🌍 Streamlit App (Live)](https://carbon-footprint-52hph8drtuvrxzajtzbkfh.streamlit.app]
 
-📁 [📦 GitHub Repository](https://github.com/yourusername/carbon-footprint-estimator)
+📁 [📦 GitHub Repository](https://github.com/emkay-ai-us/Carbon-Footprint)
 
 ---
 
@@ -87,7 +87,7 @@ streamlit run app.py
 
 I’m an AI/ML engineer and educator with over 28 years of experience, now focusing on **climate tech**. This is my first open-source project in sustainability, designed to help individuals and SMEs take the first step toward emissions awareness.
 
-Feel free to (https://www.linkedin.com/in/muthukumaran-maruthappa-501825100/) if you'd like to collaborate!
+Feel free to [connect on LinkedIn]https://your-linkedin-url](https://www.linkedin.com/in/muthukumaran-maruthappa-501825100/))if you'd like to collaborate!
 
 ---
 
